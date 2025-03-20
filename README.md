@@ -43,3 +43,11 @@ The dataset includes comprehensive details about various grocery items sold acro
 1. Clone this repository:
    ```bash
    git clone https://github.com/aaliyashamim/Powerbi-Project.git
+
+
+## Dashboard Preview  
+![Dashboard Overview](https://raw.githubusercontent.com/aaliyashamim/Powerbi-Project/main/Screenshot%202025-03-20%20152945.png)  
+![Sales Analysis](https://raw.githubusercontent.com/aaliyashamim/Powerbi-Project/main/Screenshot%202025-03-20%20153014.png)  
+![Outlet Performance](https://raw.githubusercontent.com/aaliyashamim/Powerbi-Project/main/Screenshot%202025-03-20%20153111.png)  
+![Customer Behavior](https://raw.githubusercontent.com/aaliyashamim/Powerbi-Project/main/Screenshot%202025-03-20%20153437.png)  
+
